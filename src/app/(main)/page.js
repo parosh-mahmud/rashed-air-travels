@@ -1,3 +1,4 @@
+// src/app/page.js
 import HeroSection from "@/components/HeroSection";
 import ServicesSection from "@/components/ServicesSection";
 import SpecialitiesSection from "@/components/SpecialitiesSection";
