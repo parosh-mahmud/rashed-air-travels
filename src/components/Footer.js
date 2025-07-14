@@ -15,7 +15,7 @@ const Logo = () => (
   <Link href="/" className="inline-block">
     {/* In a real project, you would use next/image here */}
     <span className="text-2xl font-bold text-cyan-400">
-      Medy<span className="text-pink-400">City</span>
+      Rashed<span className="text-pink-400">Trip</span>
       <span className="block text-xs font-normal text-gray-400 tracking-wider">
         YOUR GLOBAL HEALTHCARE PARTNER
       </span>
@@ -130,18 +130,15 @@ const Footer = () => {
                   size={24}
                   className="text-cyan-400 flex-shrink-0 mt-1"
                 />
-                <span>
-                  Boshpara,Meherpur Sadar Meherpur Head Office-7100,Meherpur,
-                  Bangladesh
-                </span>
+                <span>Arabpur more, Jashore Sadar, Jashore, Bangladesh</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={20} className="text-cyan-400 flex-shrink-0" />
-                <span>+88 01670200220</span>
+                <span>+88 01715963847</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={20} className="text-cyan-400 flex-shrink-0" />
-                <span>info@medycity.com</span>
+                <span>info@rashedtrip.com</span>
               </li>
             </ul>
           </div>
@@ -152,7 +149,7 @@ const Footer = () => {
       <div className="border-t border-slate-800">
         <div className="container mx-auto px-6 py-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
           <p className="mb-4 md:mb-0">
-            &copy; {currentYear} Medycity. All rights reserved.
+            &copy; {currentYear} RashedTrip. All rights reserved.
           </p>
           <div className="flex gap-4">
             <Link href="/terms" className="hover:text-white">
